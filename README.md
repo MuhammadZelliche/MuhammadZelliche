@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate frontend developer from France :)</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **a Secret Project **;)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **React & Node**
 
